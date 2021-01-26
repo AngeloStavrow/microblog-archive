@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://angelo.micro.blog/2021/01/26/ill-be-the.html",
+				
+				"content_html": "<p>I&rsquo;ll be the first to admit that I never thought of a writing platform as being a useful resource for libraries — but it makes sense! Check out <a href=\"https://write.as/libraries\">Write.as for Libraries</a>. ✍️📚</p>\n",
+				"content_text": "I'll be the first to admit that I never thought of a writing platform as being a useful resource for libraries — but it makes sense! Check out [Write.as for Libraries](https://write.as/libraries). ✍️📚\n",
+				"date_published": "2021-01-26T10:15:09-05:00",
+				"url": "https://angelo.micro.blog/2021/01/26/ill-be-the.html"
+			},
+			{
 				"id": "http://angelo.micro.blog/2020/12/16/okay-swiftui-question.html",
 				
 				"content_html": "<p>Okay, #SwiftUI question time! You need to pass info from e.g. an EnvironmentObject or Core Data into a Mac app&rsquo;s ComandMenu. How do you make that happen? Trying to use FocusedBindings as in <a href=\"https://developer.apple.com/forums/thread/651748\">this thread</a> isn&rsquo;t working for me. Any other ideas?</p>\n",
