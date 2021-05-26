@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://angelo.micro.blog/2021/05/26/coil-blogs-are.html",
+				
+				"content_html": "<p>Coil blogs are migrating to Write.as, and to help set folks up for the transition, the WriteFreely app is on sale until June 2nd!</p>\n\n<p><a href=\"https://apps.apple.com/app/writefreely/id1531530896\">apps.apple.com/app/write&hellip;</a></p>\n",
+				"content_text": "Coil blogs are migrating to Write.as, and to help set folks up for the transition, the WriteFreely app is on sale until June 2nd!\n\n[apps.apple.com/app/write...](https://apps.apple.com/app/writefreely/id1531530896)\n",
+				"date_published": "2021-05-26T18:56:09-04:00",
+				"url": "https://angelo.micro.blog/2021/05/26/coil-blogs-are.html"
+			},
+			{
 				"id": "http://angelo.micro.blog/2021/05/06/applying-bugfixpfizerpatch.html",
 				
 				"content_html": "<p>💉 Applying <code>bugfix_pfizer_1.patch</code>…</p>\n",
