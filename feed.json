@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://angelo.micro.blog/2021/09/24/renaming-do-not.html",
+				
+				"content_html": "<p>Renaming &ldquo;Do Not Disturb&rdquo; to &ldquo;Focus&rdquo; in iOS 15, and expanding how the feature works, is very cool.</p>\n\n<p>Allowing developers to register notifications as &ldquo;Time Sensitive&rdquo; to break through Focus, without giving users the ability to report apps that abuse this feature, is… less cool.</p>\n",
+				"content_text": "Renaming \"Do Not Disturb\" to \"Focus\" in iOS 15, and expanding how the feature works, is very cool.\r\n\r\nAllowing developers to register notifications as \"Time Sensitive\" to break through Focus, without giving users the ability to report apps that abuse this feature, is… less cool.\n",
+				"date_published": "2021-09-24T06:45:24-04:00",
+				"url": "https://angelo.micro.blog/2021/09/24/renaming-do-not.html"
+			},
+			{
 				"id": "http://angelo.micro.blog/2021/06/01/who-do-i.html",
 				
 				"content_html": "<p>Who do I know using <code>asdf</code>? Is it working well for you?</p>\n\n<p><a href=\"https://github.com/asdf-vm/asdf\">https://github.com/asdf-vm/asdf</a></p>\n",
@@ -73,8 +81,8 @@
 			{
 				"id": "http://angelo.micro.blog/2020/12/12/ive-been-talking.html",
 				
-				"content_html": "<p>I&rsquo;ve been talking about wanting to start shooting photos again, so I&rsquo;m taking Olly out with me on some errands this morning. Taking the camera with you is the easy part, though, so I&rsquo;m also setting a goal of snapping at least three photos.</p>\n\n<p><img src=\"uploads/2020/39b177250a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "I've been talking about wanting to start shooting photos again, so I'm taking Olly out with me on some errands this morning. Taking the camera with you is the easy part, though, so I'm also setting a goal of snapping at least three photos.\n\n<img src=\"uploads/2020/39b177250a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>I&rsquo;ve been talking about wanting to start shooting photos again, so I&rsquo;m taking Olly out with me on some errands this morning. Taking the camera with you is the easy part, though, so I&rsquo;m also setting a goal of snapping at least three photos.</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/39b177250a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "I've been talking about wanting to start shooting photos again, so I'm taking Olly out with me on some errands this morning. Taking the camera with you is the easy part, though, so I'm also setting a goal of snapping at least three photos.\n\n<img src=\"https://angelo.micro.blog/uploads/2020/39b177250a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2020-12-12T07:41:25-04:00",
 				"url": "https://angelo.micro.blog/2020/12/12/ive-been-talking.html"
 			},
@@ -105,16 +113,16 @@
 			{
 				"id": "http://angelo.micro.blog/2020/11/23/i-deleted-my.html",
 				
-				"content_html": "<p>I deleted my Instagram account months ago—I was too creeped out by the service to use it. I have a new-ish <a href=\"https://www.flickr.com/photos/astavrow/\">Flickr account</a>, which is still the best photography-focused social network IMHO.</p>\n\n<p><img src=\"uploads/2020/10f7c1d232.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "I deleted my Instagram account months ago—I was too creeped out by the service to use it. I have a new-ish [Flickr account](https://www.flickr.com/photos/astavrow/), which is still the best photography-focused social network IMHO.\n\n<img src=\"uploads/2020/10f7c1d232.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>I deleted my Instagram account months ago—I was too creeped out by the service to use it. I have a new-ish <a href=\"https://www.flickr.com/photos/astavrow/\">Flickr account</a>, which is still the best photography-focused social network IMHO.</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/10f7c1d232.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "I deleted my Instagram account months ago—I was too creeped out by the service to use it. I have a new-ish [Flickr account](https://www.flickr.com/photos/astavrow/), which is still the best photography-focused social network IMHO.\n\n<img src=\"https://angelo.micro.blog/uploads/2020/10f7c1d232.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-11-23T09:28:07-04:00",
 				"url": "https://angelo.micro.blog/2020/11/23/i-deleted-my.html"
 			},
 			{
 				"id": "http://angelo.micro.blog/2020/11/18/winter-is-coming.html",
 				
-				"content_html": "<p>Winter is coming.</p>\n\n<p><img src=\"uploads/2020/03176a4556.jpg\" width=\"600\" height=\"600\" alt=\"A screenshot of a portion of an iPhone lock screen saying &quot;Good Morning&quot; and indicating a current temperature of -6C.\" /></p>\n",
-				"content_text": "Winter is coming.\n\n<img src=\"uploads/2020/03176a4556.jpg\" width=\"600\" height=\"600\" alt=\"A screenshot of a portion of an iPhone lock screen saying &quot;Good Morning&quot; and indicating a current temperature of -6C.\" />\n",
+				"content_html": "<p>Winter is coming.</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/03176a4556.jpg\" width=\"600\" height=\"600\" alt=\"A screenshot of a portion of an iPhone lock screen saying &quot;Good Morning&quot; and indicating a current temperature of -6C.\" /></p>\n",
+				"content_text": "Winter is coming.\n\n<img src=\"https://angelo.micro.blog/uploads/2020/03176a4556.jpg\" width=\"600\" height=\"600\" alt=\"A screenshot of a portion of an iPhone lock screen saying &quot;Good Morning&quot; and indicating a current temperature of -6C.\" />\n",
 				"date_published": "2020-11-18T08:25:07-04:00",
 				"url": "https://angelo.micro.blog/2020/11/18/winter-is-coming.html"
 			},
@@ -177,8 +185,8 @@
 			{
 				"id": "http://angelo.micro.blog/2020/10/21/yesterday-v-of.html",
 				
-				"content_html": "<p>Yesterday, v1.0 of the WriteFreely app for iOS launched on the App Store — I wrote a bit about my experience building it in SwiftUI <a href=\"https://angelostavrow.com/post/writefreely-for-ios-launch/\">here</a>, as well as what&rsquo;s next.</p>\n\n<p><img src=\"uploads/2020/dcd6121888.png\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
-				"content_text": "Yesterday, v1.0 of the WriteFreely app for iOS launched on the App Store — I wrote a bit about my experience building it in SwiftUI [here](https://angelostavrow.com/post/writefreely-for-ios-launch/), as well as what's next.\n\n<img src=\"uploads/2020/dcd6121888.png\" width=\"600\" height=\"300\" alt=\"\" />\n",
+				"content_html": "<p>Yesterday, v1.0 of the WriteFreely app for iOS launched on the App Store — I wrote a bit about my experience building it in SwiftUI <a href=\"https://angelostavrow.com/post/writefreely-for-ios-launch/\">here</a>, as well as what&rsquo;s next.</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/dcd6121888.png\" width=\"600\" height=\"300\" alt=\"\" /></p>\n",
+				"content_text": "Yesterday, v1.0 of the WriteFreely app for iOS launched on the App Store — I wrote a bit about my experience building it in SwiftUI [here](https://angelostavrow.com/post/writefreely-for-ios-launch/), as well as what's next.\n\n<img src=\"https://angelo.micro.blog/uploads/2020/dcd6121888.png\" width=\"600\" height=\"300\" alt=\"\" />\n",
 				"date_published": "2020-10-21T14:08:06-04:00",
 				"url": "https://angelo.micro.blog/2020/10/21/yesterday-v-of.html"
 			},
@@ -201,8 +209,8 @@
 			{
 				"id": "http://angelo.micro.blog/2020/10/12/coming-soon-to.html",
 				
-				"content_html": "<p>Coming soon to a WriteFreely TestFlight beta near you — publish local posts to a collection, and move posts between collections!</p>\n\n<p>Sign up to test the app here: <a href=\"https://writefreely.org/apps/ios/beta\">writefreely.org/apps/ios/&hellip;</a></p>\n\n<p><img src=\"uploads/2020/171c759f70.png\" width=\"600\" height=\"375\" alt=\"\" /></p>\n",
-				"content_text": "Coming soon to a WriteFreely TestFlight beta near you — publish local posts to a collection, and move posts between collections!\r\n\r\nSign up to test the app here: [writefreely.org/apps/ios/...](https://writefreely.org/apps/ios/beta)\n\n<img src=\"uploads/2020/171c759f70.png\" width=\"600\" height=\"375\" alt=\"\" />\n",
+				"content_html": "<p>Coming soon to a WriteFreely TestFlight beta near you — publish local posts to a collection, and move posts between collections!</p>\n\n<p>Sign up to test the app here: <a href=\"https://writefreely.org/apps/ios/beta\">writefreely.org/apps/ios/&hellip;</a></p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/171c759f70.png\" width=\"600\" height=\"375\" alt=\"\" /></p>\n",
+				"content_text": "Coming soon to a WriteFreely TestFlight beta near you — publish local posts to a collection, and move posts between collections!\r\n\r\nSign up to test the app here: [writefreely.org/apps/ios/...](https://writefreely.org/apps/ios/beta)\n\n<img src=\"https://angelo.micro.blog/uploads/2020/171c759f70.png\" width=\"600\" height=\"375\" alt=\"\" />\n",
 				"date_published": "2020-10-12T12:25:13-04:00",
 				"url": "https://angelo.micro.blog/2020/10/12/coming-soon-to.html"
 			},
@@ -217,16 +225,16 @@
 			{
 				"id": "http://angelo.micro.blog/2020/10/05/oh-my-days.html",
 				
-				"content_html": "<p>Oh my days, it&rsquo;s finally live — sign up for the WriteFreely for iOS public beta! 🎉</p>\n\n<p>More here: <a href=\"https://write.as/angelo/writefreely-for-ios-public-beta\">write.as/angelo/wr&hellip;</a></p>\n\n<p><img src=\"uploads/2020/497f2cfa72.png\" width=\"600\" height=\"375\" alt=\"\" /></p>\n",
-				"content_text": "Oh my days, it's finally live — sign up for the WriteFreely for iOS public beta! 🎉\r\n\r\nMore here: [write.as/angelo/wr...](https://write.as/angelo/writefreely-for-ios-public-beta)\n\n<img src=\"uploads/2020/497f2cfa72.png\" width=\"600\" height=\"375\" alt=\"\" />\n",
+				"content_html": "<p>Oh my days, it&rsquo;s finally live — sign up for the WriteFreely for iOS public beta! 🎉</p>\n\n<p>More here: <a href=\"https://write.as/angelo/writefreely-for-ios-public-beta\">write.as/angelo/wr&hellip;</a></p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/497f2cfa72.png\" width=\"600\" height=\"375\" alt=\"\" /></p>\n",
+				"content_text": "Oh my days, it's finally live — sign up for the WriteFreely for iOS public beta! 🎉\r\n\r\nMore here: [write.as/angelo/wr...](https://write.as/angelo/writefreely-for-ios-public-beta)\n\n<img src=\"https://angelo.micro.blog/uploads/2020/497f2cfa72.png\" width=\"600\" height=\"375\" alt=\"\" />\n",
 				"date_published": "2020-10-05T14:00:04-04:00",
 				"url": "https://angelo.micro.blog/2020/10/05/oh-my-days.html"
 			},
 			{
 				"id": "http://angelo.micro.blog/2020/10/04/been-working-with.html",
 				
-				"content_html": "<p>Been working with SwifUI all summer to build this. It’s getting close! 😬😃🥳</p>\n\n<p><img src=\"uploads/2020/37363a0fbf.jpg\" width=\"600\" height=\"332\" alt=\"\" /></p>\n",
-				"content_text": "Been working with SwifUI all summer to build this. It’s getting close! 😬😃🥳\n\n<img src=\"uploads/2020/37363a0fbf.jpg\" width=\"600\" height=\"332\" alt=\"\" />\n",
+				"content_html": "<p>Been working with SwifUI all summer to build this. It’s getting close! 😬😃🥳</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/37363a0fbf.jpg\" width=\"600\" height=\"332\" alt=\"\" /></p>\n",
+				"content_text": "Been working with SwifUI all summer to build this. It’s getting close! 😬😃🥳\n\n<img src=\"https://angelo.micro.blog/uploads/2020/37363a0fbf.jpg\" width=\"600\" height=\"332\" alt=\"\" />\n",
 				"date_published": "2020-10-04T11:28:29-04:00",
 				"url": "https://angelo.micro.blog/2020/10/04/been-working-with.html"
 			},
@@ -265,8 +273,8 @@
 			{
 				"id": "http://angelo.micro.blog/2020/09/15/are-these-kinds.html",
 				
-				"content_html": "<p>Are these kinds of announcements new?</p>\n\n<p><img src=\"uploads/2020/b46a107879.jpg\" width=\"600\" height=\"454\" alt=\"\" /></p>\n",
-				"content_text": "Are these kinds of announcements new?\n\n<img src=\"uploads/2020/b46a107879.jpg\" width=\"600\" height=\"454\" alt=\"\" />\n",
+				"content_html": "<p>Are these kinds of announcements new?</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/b46a107879.jpg\" width=\"600\" height=\"454\" alt=\"\" /></p>\n",
+				"content_text": "Are these kinds of announcements new?\n\n<img src=\"https://angelo.micro.blog/uploads/2020/b46a107879.jpg\" width=\"600\" height=\"454\" alt=\"\" />\n",
 				"date_published": "2020-09-15T18:45:24-04:00",
 				"url": "https://angelo.micro.blog/2020/09/15/are-these-kinds.html"
 			},
@@ -425,8 +433,8 @@
 			{
 				"id": "http://angelo.micro.blog/2020/07/31/so-damn-close.html",
 				
-				"content_html": "<p>So</p>\n\n<p>Damn</p>\n\n<p>Close</p>\n\n<p><a href=\"https://angelo.micro.blog/uploads/2020/5950e46474.jpg\"><img src=\"uploads/2020/5950e46474.jpg\" width=\"522\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "So\n\nDamn\n\nClose\n\n<a href=\"https://angelo.micro.blog/uploads/2020/5950e46474.jpg\"><img src=\"uploads/2020/5950e46474.jpg\" width=\"522\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>So</p>\n\n<p>Damn</p>\n\n<p>Close</p>\n\n<p><a href=\"https://angelo.micro.blog/uploads/2020/5950e46474.jpg\"><img src=\"https://angelo.micro.blog/uploads/2020/5950e46474.jpg\" width=\"522\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "So\n\nDamn\n\nClose\n\n<a href=\"https://angelo.micro.blog/uploads/2020/5950e46474.jpg\"><img src=\"https://angelo.micro.blog/uploads/2020/5950e46474.jpg\" width=\"522\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-07-31T10:01:34-04:00",
 				"url": "https://angelo.micro.blog/2020/07/31/so-damn-close.html"
 			},
@@ -441,8 +449,8 @@
 			{
 				"id": "http://angelo.micro.blog/2020/07/27/this-is-the.html",
 				
-				"content_html": "<p>This is the first month in a long time that I’ve bothered trying to close my activity rings every day. We’re now in the home stretch.</p>\n\n<p><img src=\"uploads/2020/e2e1741247.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "This is the first month in a long time that I’ve bothered trying to close my activity rings every day. We’re now in the home stretch.\n\n<img src=\"uploads/2020/e2e1741247.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>This is the first month in a long time that I’ve bothered trying to close my activity rings every day. We’re now in the home stretch.</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/e2e1741247.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This is the first month in a long time that I’ve bothered trying to close my activity rings every day. We’re now in the home stretch.\n\n<img src=\"https://angelo.micro.blog/uploads/2020/e2e1741247.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2020-07-27T06:50:19-04:00",
 				"url": "https://angelo.micro.blog/2020/07/27/this-is-the.html"
 			},
@@ -569,8 +577,8 @@
 			{
 				"id": "http://angelo.micro.blog/2020/05/27/a-little-something.html",
 				
-				"content_html": "<p>A little something I added to the bottom of my personal site’s footer — I’m leveraging the Web Performance API to tell you how long between unloading the last page to fully loading the DOM on the new page.</p>\n\n<p><img src=\"uploads/2020/f1c7b7871f.jpg\" width=\"600\" height=\"108\" alt=\"Footer showing copyright info and &quot;This page loaded in 98ms&quot;\" /></p>\n",
-				"content_text": "A little something I added to the bottom of my personal site’s footer — I’m leveraging the Web Performance API to tell you how long between unloading the last page to fully loading the DOM on the new page.\n\n<img src=\"uploads/2020/f1c7b7871f.jpg\" width=\"600\" height=\"108\" alt=\"Footer showing copyright info and &quot;This page loaded in 98ms&quot;\" />\n",
+				"content_html": "<p>A little something I added to the bottom of my personal site’s footer — I’m leveraging the Web Performance API to tell you how long between unloading the last page to fully loading the DOM on the new page.</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/f1c7b7871f.jpg\" width=\"600\" height=\"108\" alt=\"Footer showing copyright info and &quot;This page loaded in 98ms&quot;\" /></p>\n",
+				"content_text": "A little something I added to the bottom of my personal site’s footer — I’m leveraging the Web Performance API to tell you how long between unloading the last page to fully loading the DOM on the new page.\n\n<img src=\"https://angelo.micro.blog/uploads/2020/f1c7b7871f.jpg\" width=\"600\" height=\"108\" alt=\"Footer showing copyright info and &quot;This page loaded in 98ms&quot;\" />\n",
 				"date_published": "2020-05-27T11:16:26-04:00",
 				"url": "https://angelo.micro.blog/2020/05/27/a-little-something.html"
 			},
@@ -633,8 +641,8 @@
 			{
 				"id": "http://angelo.micro.blog/2020/04/07/a-loggedin-session.html",
 				
-				"content_html": "<p>A logged-in session of dev.to fails to load in Safari on macOS with &ldquo;Service Worker context closed&rdquo; (works fine incognito or other browsers). Looks like Safari will simply give up if there&rsquo;s an unhandled Promise rejection?</p>\n\n<p><img src=\"uploads/2020/cca15ce957.png\" width=\"600\" height=\"276\" alt=\"\" /></p>\n",
-				"content_text": "A logged-in session of dev.to fails to load in Safari on macOS with \"Service Worker context closed\" (works fine incognito or other browsers). Looks like Safari will simply give up if there's an unhandled Promise rejection?\n\n<img src=\"uploads/2020/cca15ce957.png\" width=\"600\" height=\"276\" alt=\"\" />\n",
+				"content_html": "<p>A logged-in session of dev.to fails to load in Safari on macOS with &ldquo;Service Worker context closed&rdquo; (works fine incognito or other browsers). Looks like Safari will simply give up if there&rsquo;s an unhandled Promise rejection?</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/cca15ce957.png\" width=\"600\" height=\"276\" alt=\"\" /></p>\n",
+				"content_text": "A logged-in session of dev.to fails to load in Safari on macOS with \"Service Worker context closed\" (works fine incognito or other browsers). Looks like Safari will simply give up if there's an unhandled Promise rejection?\n\n<img src=\"https://angelo.micro.blog/uploads/2020/cca15ce957.png\" width=\"600\" height=\"276\" alt=\"\" />\n",
 				"date_published": "2020-04-07T09:19:42-04:00",
 				"url": "https://angelo.micro.blog/2020/04/07/a-loggedin-session.html"
 			},
@@ -657,8 +665,8 @@
 			{
 				"id": "http://angelo.micro.blog/2020/03/25/anyone-else-having.html",
 				
-				"content_html": "<p>Anyone else having a heck of a time installing watchOS 6.2?</p>\n\n<p>This is on a Series 2 Watch.</p>\n\n<p><img src=\"uploads/2020/a0cbb6aef1.jpg\" width=\"600\" height=\"149\" alt=\"\" /></p>\n",
-				"content_text": "Anyone else having a heck of a time installing watchOS 6.2?\n\nThis is on a Series 2 Watch.\n\n<img src=\"uploads/2020/a0cbb6aef1.jpg\" width=\"600\" height=\"149\" alt=\"\" />\n",
+				"content_html": "<p>Anyone else having a heck of a time installing watchOS 6.2?</p>\n\n<p>This is on a Series 2 Watch.</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/a0cbb6aef1.jpg\" width=\"600\" height=\"149\" alt=\"\" /></p>\n",
+				"content_text": "Anyone else having a heck of a time installing watchOS 6.2?\n\nThis is on a Series 2 Watch.\n\n<img src=\"https://angelo.micro.blog/uploads/2020/a0cbb6aef1.jpg\" width=\"600\" height=\"149\" alt=\"\" />\n",
 				"date_published": "2020-03-25T17:23:10-04:00",
 				"url": "https://angelo.micro.blog/2020/03/25/anyone-else-having.html"
 			},
@@ -849,8 +857,8 @@
 			{
 				"id": "http://angelo.micro.blog/2020/01/07/obviously-blue-tastes.html",
 				
-				"content_html": "<p>Obviously, blue tastes like glass cleaner.</p>\n\n<p>Otherwise, a great article by <a href=\"https://micro.blog/frankacy\">@frankacy</a>!</p>\n\n<p><a href=\"https://ioscoachfrank.com/no-problem-with-mvc.html\">ioscoachfrank.com/no-proble&hellip;</a></p>\n\n<p><img src=\"uploads/2020/d97f2c0fef.jpg\" width=\"600\" height=\"225\" alt=\"\" /></p>\n",
-				"content_text": "Obviously, blue tastes like glass cleaner.\n\nOtherwise, a great article by [@frankacy](https://micro.blog/frankacy)!\n\n[ioscoachfrank.com/no-proble...](https://ioscoachfrank.com/no-problem-with-mvc.html)\n\n<img src=\"uploads/2020/d97f2c0fef.jpg\" width=\"600\" height=\"225\" alt=\"\" />\n",
+				"content_html": "<p>Obviously, blue tastes like glass cleaner.</p>\n\n<p>Otherwise, a great article by <a href=\"https://micro.blog/frankacy\">@frankacy</a>!</p>\n\n<p><a href=\"https://ioscoachfrank.com/no-problem-with-mvc.html\">ioscoachfrank.com/no-proble&hellip;</a></p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2020/d97f2c0fef.jpg\" width=\"600\" height=\"225\" alt=\"\" /></p>\n",
+				"content_text": "Obviously, blue tastes like glass cleaner.\n\nOtherwise, a great article by [@frankacy](https://micro.blog/frankacy)!\n\n[ioscoachfrank.com/no-proble...](https://ioscoachfrank.com/no-problem-with-mvc.html)\n\n<img src=\"https://angelo.micro.blog/uploads/2020/d97f2c0fef.jpg\" width=\"600\" height=\"225\" alt=\"\" />\n",
 				"date_published": "2020-01-07T09:00:07-04:00",
 				"url": "https://angelo.micro.blog/2020/01/07/obviously-blue-tastes.html"
 			},
@@ -913,8 +921,8 @@
 			{
 				"id": "http://angelo.micro.blog/2019/12/19/heat-dont-fail.html",
 				
-				"content_html": "<p>Heat don&rsquo;t fail me now</p>\n\n<p><img src=\"uploads/2019/ff31f913c3.jpg\" width=\"516\" height=\"322\" alt=\"\" /></p>\n",
-				"content_text": "Heat don't fail me now\n\n<img src=\"uploads/2019/ff31f913c3.jpg\" width=\"516\" height=\"322\" alt=\"\" />\n",
+				"content_html": "<p>Heat don&rsquo;t fail me now</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2019/ff31f913c3.jpg\" width=\"516\" height=\"322\" alt=\"\" /></p>\n",
+				"content_text": "Heat don't fail me now\n\n<img src=\"https://angelo.micro.blog/uploads/2019/ff31f913c3.jpg\" width=\"516\" height=\"322\" alt=\"\" />\n",
 				"date_published": "2019-12-19T07:29:15-04:00",
 				"url": "https://angelo.micro.blog/2019/12/19/heat-dont-fail.html"
 			},
@@ -1073,8 +1081,8 @@
 			{
 				"id": "http://angelo.micro.blog/2019/10/18/that-is-not.html",
 				
-				"content_html": "<p>That is… <em>not</em> what 33% looks like on a progress bar.</p>\n\n<p><img src=\"uploads/2019/c90b61d54c.jpg\" width=\"429\" height=\"600\" alt=\"Image of AirPods case battery charge status indicating 33% but whose progress bar appears nearly empty.\" /></p>\n",
-				"content_text": "That is… _not_ what 33% looks like on a progress bar.\n\n<img src=\"uploads/2019/c90b61d54c.jpg\" width=\"429\" height=\"600\" alt=\"Image of AirPods case battery charge status indicating 33% but whose progress bar appears nearly empty.\" />\n",
+				"content_html": "<p>That is… <em>not</em> what 33% looks like on a progress bar.</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2019/c90b61d54c.jpg\" width=\"429\" height=\"600\" alt=\"Image of AirPods case battery charge status indicating 33% but whose progress bar appears nearly empty.\" /></p>\n",
+				"content_text": "That is… _not_ what 33% looks like on a progress bar.\n\n<img src=\"https://angelo.micro.blog/uploads/2019/c90b61d54c.jpg\" width=\"429\" height=\"600\" alt=\"Image of AirPods case battery charge status indicating 33% but whose progress bar appears nearly empty.\" />\n",
 				"date_published": "2019-10-18T07:55:51-04:00",
 				"url": "https://angelo.micro.blog/2019/10/18/that-is-not.html"
 			},
@@ -1153,8 +1161,8 @@
 			{
 				"id": "http://angelo.micro.blog/2019/08/21/a-job-well.html",
 				
-				"content_html": "<p>A job well done is its own reward.</p>\n\n<p><img src=\"uploads/2019/ce00cea7e9.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "A job well done is its own reward.\n\n<img src=\"uploads/2019/ce00cea7e9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>A job well done is its own reward.</p>\n\n<p><img src=\"https://angelo.micro.blog/uploads/2019/ce00cea7e9.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A job well done is its own reward.\n\n<img src=\"https://angelo.micro.blog/uploads/2019/ce00cea7e9.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2019-08-21T21:43:34-04:00",
 				"url": "https://angelo.micro.blog/2019/08/21/a-job-well.html"
 			},
@@ -1209,8 +1217,8 @@
 			{
 				"id": "http://angelo.micro.blog/2019/08/18/we-visited-portland.html",
 				
-				"content_html": "<p>We visited Portland, ME and just fell in love with the place. Lovely folks, laid-back pace, amazing food — looking forward to going back!</p>\n\n<p><a href=\"http://angelo.micro.blog/uploads/2019/5c1832e5d7.jpg\"><img src=\"uploads/2019/5c1832e5d7.jpg\" width=\"600\" height=\"445\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "We visited Portland, ME and just fell in love with the place. Lovely folks, laid-back pace, amazing food — looking forward to going back!\n\n<a href=\"http://angelo.micro.blog/uploads/2019/5c1832e5d7.jpg\"><img src=\"uploads/2019/5c1832e5d7.jpg\" width=\"600\" height=\"445\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_html": "<p>We visited Portland, ME and just fell in love with the place. Lovely folks, laid-back pace, amazing food — looking forward to going back!</p>\n\n<p><a href=\"http://angelo.micro.blog/uploads/2019/5c1832e5d7.jpg\"><img src=\"https://angelo.micro.blog/uploads/2019/5c1832e5d7.jpg\" width=\"600\" height=\"445\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "We visited Portland, ME and just fell in love with the place. Lovely folks, laid-back pace, amazing food — looking forward to going back!\n\n<a href=\"http://angelo.micro.blog/uploads/2019/5c1832e5d7.jpg\"><img src=\"https://angelo.micro.blog/uploads/2019/5c1832e5d7.jpg\" width=\"600\" height=\"445\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2019-08-18T17:42:13-04:00",
 				"url": "https://angelo.micro.blog/2019/08/18/we-visited-portland.html"
 			},
@@ -1441,8 +1449,8 @@
 			{
 				"id": "http://angelo.micro.blog/2019/02/02/i-havent-touched.html",
 				
-				"content_html": "<p><a href=\"http://angelo.micro.blog/uploads/2019/827471dac5.jpg\"><img src=\"uploads/2019/827471dac5.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I haven’t touched an instrument in well over a decade. Picked this up today to get back to it, and it feels like… I dunno, like coming home.</p>\n",
-				"content_text": "<a href=\"http://angelo.micro.blog/uploads/2019/827471dac5.jpg\"><img src=\"uploads/2019/827471dac5.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nI haven’t touched an instrument in well over a decade. Picked this up today to get back to it, and it feels like… I dunno, like coming home.\n\n",
+				"content_html": "<p><a href=\"http://angelo.micro.blog/uploads/2019/827471dac5.jpg\"><img src=\"https://angelo.micro.blog/uploads/2019/827471dac5.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I haven’t touched an instrument in well over a decade. Picked this up today to get back to it, and it feels like… I dunno, like coming home.</p>\n",
+				"content_text": "<a href=\"http://angelo.micro.blog/uploads/2019/827471dac5.jpg\"><img src=\"https://angelo.micro.blog/uploads/2019/827471dac5.jpg\" width=\"450\" height=\"600\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nI haven’t touched an instrument in well over a decade. Picked this up today to get back to it, and it feels like… I dunno, like coming home.\n\n",
 				"date_published": "2019-02-01T23:54:48-04:00",
 				"url": "https://angelo.micro.blog/2019/02/01/i-havent-touched.html"
 			},
@@ -1585,8 +1593,8 @@
 			{
 				"id": "http://angelo.micro.blog/2018/10/28/nature-makes-the.html",
 				
-				"content_html": "<p><a href=\"http://angelo.micro.blog/uploads/2018/a3e97679b0.jpg\"><img src=\"uploads/2018/a3e97679b0.jpg\" width=\"600\" height=\"399\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Nature makes the best carpets.</p>\n",
-				"content_text": "<a href=\"http://angelo.micro.blog/uploads/2018/a3e97679b0.jpg\"><img src=\"uploads/2018/a3e97679b0.jpg\" width=\"600\" height=\"399\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nNature makes the best carpets.\n\n",
+				"content_html": "<p><a href=\"http://angelo.micro.blog/uploads/2018/a3e97679b0.jpg\"><img src=\"https://angelo.micro.blog/uploads/2018/a3e97679b0.jpg\" width=\"600\" height=\"399\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>Nature makes the best carpets.</p>\n",
+				"content_text": "<a href=\"http://angelo.micro.blog/uploads/2018/a3e97679b0.jpg\"><img src=\"https://angelo.micro.blog/uploads/2018/a3e97679b0.jpg\" width=\"600\" height=\"399\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nNature makes the best carpets.\n\n",
 				"date_published": "2018-10-28T14:42:12-04:00",
 				"url": "https://angelo.micro.blog/2018/10/28/nature-makes-the.html"
 			},
